@@ -1,3 +1,7 @@
 .venv/
 .idea/
 src/__pycache__/
+src/fake/__pycache__/
+src/model/__pycache__/
+src/web/__pycache__/
+
