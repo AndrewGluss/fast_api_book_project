@@ -4,4 +4,7 @@ src/__pycache__/
 src/fake/__pycache__/
 src/model/__pycache__/
 src/web/__pycache__/
+src/service/__pycache__/
+src/test/unit/service/__pycache__/
+
 
